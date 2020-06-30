@@ -1,5 +1,6 @@
 # DeepGTA
-Analysis of time resolved spectra using Deep Learning and Global/Target Analysis
+Analysis of time resolved spectra using a deep Spectrosopy Kinetic Analysis Network (deepSKAN) and Global/Target Analysis.
+If this package contributes to a scientific publication, please acknowledge this by citing https://doi.org/10.1021/acs.jpcb.0c04299
 
 ## Installation instructions:
 - This package is meant to be installed with pip: `pip install .`
