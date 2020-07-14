@@ -2,7 +2,6 @@ import numpy as np
 import random
 import h5py
 import keras
-from tqdm import tqdm
 import scipy.interpolate as ip
 from scipy.integrate import RK45
 from scipy.interpolate import interp1d
